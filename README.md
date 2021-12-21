@@ -1,7 +1,7 @@
 # linktra
 A lead tracker chrome extension.
 
-![](Linktra.png)
+![Screenshot](Linktra.png)
 
 How to use:
 - Clone/download the repo.
